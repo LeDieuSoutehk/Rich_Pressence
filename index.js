@@ -1,3 +1,5 @@
+const Discord = require('discord.js');
+
 var rpc = require("discord-rpc")
 // Original modifié par Le FoxTo pour le rendre complet.
 // Plus d'informations : https://peopleofhell.fr/tuto/richvar 
